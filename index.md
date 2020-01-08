@@ -4,11 +4,11 @@
 
 ### Countdown Timer
 
-<a href="https://countdown-timer.now.sh/">[link]</a>
+<a href="https://countdown-timer.now.sh/">Open this App</a>
 <img src="images/countdownTimer.png?raw=true" style="width: 20%"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+<a href="https://movie-search-nine-red.now.sh/">Open this App</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
