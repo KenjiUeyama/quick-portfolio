@@ -11,7 +11,7 @@
 
 ### Movie Search
 <a href="https://movie-search-nine-red.now.sh/">Open this App</a>
-<img src="images/movieSearch2.png?raw=true" />
+<img src="images/movieSearch2.png?raw=true" style="width: 150%"/>
 
 ---
 [Project 3 Title](http://example.com/)
