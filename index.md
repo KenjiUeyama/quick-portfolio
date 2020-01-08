@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Countdown Timer (Javascript)
 
 <a href="https://countdown-timer.now.sh/">[Countdown Timer]</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
