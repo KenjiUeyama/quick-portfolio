@@ -13,7 +13,7 @@
 
 ---
 ### Coin Chasing Game
-<a href="https://coin-chasing-game.now.sh/">Open this App</a>
+<a href="https://coin-chasing-game.now.sh">Open this App</a>
 <img src="images/coinChasingGame.png?raw=true"/>
 
 
