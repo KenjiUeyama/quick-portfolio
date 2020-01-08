@@ -2,10 +2,10 @@
 
 ---
 
-### Countdown Timer (Javascript)
+### Countdown Timer
 
 <a href="https://countdown-timer.now.sh/">[Countdown Timer]</a>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/countdownTimer.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
