@@ -4,8 +4,8 @@
 
 ### Countdown Timer
 
-<a href="https://countdown-timer.now.sh/">[Countdown Timer]</a>
-<img src="images/countdownTimer.png?raw=true"/>
+<a href="https://countdown-timer.now.sh/">[link]</a>
+<img src="images/countdownTimer.png?raw=true" style="width: 20%"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
