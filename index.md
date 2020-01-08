@@ -13,7 +13,8 @@
 
 ---
 ### Coin Chasing Game
-
+<a href="https://coin-chasing-game.ueyamakenji63.now.sh/">Open this App</a>
+<img src="images/coinChasingGame.png?raw=true" style="width: 200%"/>
 
 
 ---
