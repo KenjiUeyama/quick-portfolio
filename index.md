@@ -9,7 +9,7 @@
 
 ---
 <a href="https://movie-search-nine-red.now.sh/">Open this App</a>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/movieSearch2.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
