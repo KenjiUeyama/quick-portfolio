@@ -5,13 +5,13 @@
 ### Countdown Timer
 
 <a href="https://countdown-timer.now.sh/">Open this App</a>
-<img src="images/countdownTimer.png?raw=true" style="width: 20%"/>
+<img src="images/countdownTimer.png?raw=true" style="width: 30%"/>
 
 ---
 
 ### Movie Search
 <a href="https://movie-search-nine-red.now.sh/">Open this App</a>
-<img src="images/movieSearch2.png?raw=true" style="width: 20%"/>
+<img src="images/movieSearch2.png?raw=true" style="width: 50%"/>
 
 ---
 [Project 3 Title](http://example.com/)
