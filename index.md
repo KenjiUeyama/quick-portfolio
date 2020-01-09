@@ -24,11 +24,7 @@
 <img src="images/coinChasingGame.png?raw=true" style="width: 200%"/>
 
 ---
-### 
-<a href="https://todolist-without-jquery-qcro25tuu.now.sh/">Open this App</a>
-<img src="images/coinChasingGame.png?raw=true" style="width: 200%"/>
 
----
 
 ### Category Name 2
 
