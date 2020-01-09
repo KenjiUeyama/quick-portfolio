@@ -5,7 +5,7 @@
 
 ### TO-DO LIST without jQuery
 <a href="https://todolist-without-jquery-qcro25tuu.now.sh/">Open this App</a>
-<img src="images/TodoList.png?raw=true" style="width: 200%"/>
+<img src="images/TodoList.png?raw=true" style="width: 100%"/>
 
 ---
 ### Countdown Timer
